@@ -23,5 +23,10 @@ Python (pandas, numpy, matplotlib, plotly, seaborn)
 9. Popularity of paid apps vs free apps
 10. Sentiment analysis of user reviews
 
+##### Market Prevalence by App Category
+![image](https://user-images.githubusercontent.com/52799413/232144269-4d294e23-3405-4db9-b599-b95207d5dc5b.png)
+
+##### Sentiment Analysis of User Reviews
 ![image](https://user-images.githubusercontent.com/52799413/232142552-1e2f8dd1-dd2d-4c1b-9a7d-aaaa0f51cd77.png)
+
 
