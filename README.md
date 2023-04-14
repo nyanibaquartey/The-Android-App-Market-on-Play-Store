@@ -1,17 +1,17 @@
 # The-Android-App-Market-on-Play-Store
-####A DataCamp Project
+#### A DataCamp Project
 "A comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention."
 
-###Skills/Topics:
+### Skills/Topics:
 Importing & Cleaning Data
 Data Manipulation
 Probability & Statistics
 Data Visualization
 
-###Language:
+### Language:
 Python (pandas, numpy, matplotlib, plotly, seaborn)
 
-###Project Tasks
+### Project Tasks
 1. Google Play Store apps and reviews
 2. Data cleaning
 3. Correcting data types
